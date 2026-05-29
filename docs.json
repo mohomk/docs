@@ -41,6 +41,14 @@
     "directory": "card",
     "groups": [
       {
+        "group": "Property Management",
+        "icon": "plug",
+        "expanded": true,
+        "pages": [
+          "property-management/quickstart",
+        ]
+      },
+      {
         "group": "Platform",
         "icon": "layers",
         "expanded": true,
