@@ -41,11 +41,11 @@
     "directory": "card",
     "groups": [
       {
-        "group": "Property Management",
+        "group": "PropertyManagement",
         "icon": "plug",
         "expanded": true,
         "pages": [
-          "property-management/quickstart",
+          "property-management/quickstart"
         ]
       },
       {
